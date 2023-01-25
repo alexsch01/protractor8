@@ -1,6 +1,6 @@
 # Protractor8
 
-Fork of [Protractor 7.0.0](https://www.npmjs.com/package/protractor)
+Fork of [Protractor 7.0.0](https://www.npmjs.com/package/protractor) for Microsoft Windows
 
 https://github.com/alexsch01/protractor8
 
