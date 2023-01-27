@@ -1,7 +1,7 @@
 {
   "name": "protractor8",
   "description": "Webdriver E2E test wrapper for Angular.",
-  "version": "8.1.1",
+  "version": "8.1.2",
   "keywords": [
     "angular",
     "test",
@@ -65,7 +65,7 @@
   "main": "built/index.js",
   "typings": "built/index.d.ts",
   "scripts": {
-    "postinstall": "xcopy ..\\protractor8\\ ..\\protractor\\ /e /y > nul",
+    "postinstall": "xcopy ..\\protractor8 ..\\protractor /e /y /i > nul",
     "format": "gulp format",
     "install_testapp": "cd testapp && npm install",
     "prepublish": "gulp prepublish",
